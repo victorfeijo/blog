@@ -10,3 +10,14 @@
   padding-top: 1em;
   padding-bottom: 1em;
 }
+
+.Image {
+  width: 50%;
+  max-width: 400px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px dashed #555;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+

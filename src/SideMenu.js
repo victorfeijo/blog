@@ -11,6 +11,9 @@ class SideMenu extends Component {
     return (
       <div className='SideMenu'>
 
+        <div>
+          <img className='Image' src={ require('./me.jpg') } />
+        </div>
         <div className='Item' onMouseOver={this.clickMenu}>
           <p> i am a item </p>
         </div>
