@@ -1,0 +1,12 @@
+.SideMenu {
+  float: left;
+  padding-left: 2em;
+  padding-top: 2em;
+  width: 15%;
+}
+
+.Item {
+  border-bottom: 2px solid black;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}

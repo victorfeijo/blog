@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import './MainContent.css'
+import './css/MainContent.css'
 
 class MainContent extends Component {
   render() {
     return (
-      <div>
+      <div className='MainContent'>
         <a> I am the main content </a>
       </div>
     );
